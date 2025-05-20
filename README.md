@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salam & Hello! I'm Izzat Ibtisyam
 
-<!--
-**izzatx/izzatx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical, Electronics & Information Engineering graduate from Japan  
+🌍 Fluent in 🇲🇾 Malay, 🇬🇧 English, 🇯🇵 Japanese  
+💻 Full-stack developer working with TypeScript, Node.js, React, Django & Google APIs  
+📦 Building bots, scrapers, and automation tools for real-world problems (especially my problems)
+📈 Passionate about blending engineering thinking with web automation and productivity hacks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Highlighted Projects
+
+- 🧠 [Covid19-SIRModel](https://github.com/izzatx/Covid19-SIRModel) — machine learning approach using Physics Informed Neural Networks to solve Partial Differential Equations 
+- 🛍️ [wsToGoogleSheet](https://github.com/izzatx/wsToGoogleSheet) — WhatsApp → Google Sheet automation
+- 🔄 [wsBot](https://github.com/izzatx/wsBot) — reply automation for group messages ( non official meta-API )
+- 🛒 [django-auction](https://github.com/izzatx/django-auction) — a simple e-commerce auction system just to learn how Django works
+- 📊 [EcommerceScraper](https://github.com/izzatx/EcommerceScraper) — extract product details to spreadsheet from JP e-commerce sites
+
+---
+
+## 💬 Let's Connect
+
+- 📧 izzat.ibtisyam@gmail.com  
+- 🌐 [GitHub](https://github.com/izzatx)  
+- 💼 Always open to collaborations or new challenges
+
+---
+
+_“Pursuing excellence, with code and integrity.”_
