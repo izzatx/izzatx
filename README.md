@@ -26,4 +26,4 @@
 
 ---
 
-_“Pursuing excellence, with code and integrity.”_
+_“Learn how to solve problems using the simplest code.”_
