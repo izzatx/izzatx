@@ -1,10 +1,10 @@
 # 👋 Salam & Hello! I'm Izzat Ibtisyam
 
-🎓 Electrical, Electronics & Information Engineering graduate from Japan  
-🌍 Fluent in 🇲🇾 Malay, 🇬🇧 English, 🇯🇵 Japanese  
-💻 Full-stack developer working with TypeScript, Node.js, React, Django & Google APIs  
-📦 Building bots, scrapers, and automation tools for real-world problems (especially my problems)
-📈 Passionate about blending engineering thinking with web automation and productivity hacks
+- 🎓 Electrical, Electronics & Information Engineering graduate from Japan  
+- 🌍 Fluent in 🇲🇾 Malay, 🇬🇧 English, 🇯🇵 Japanese  
+- 💻 Full-stack developer working with TypeScript, Node.js, React, Django & Google APIs  
+- 📦 Building bots, scrapers, and automation tools for real-world problems (especially my problems)
+- 📈 Passionate about blending engineering thinking with web automation and productivity hacks
 
 ---
 
